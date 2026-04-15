@@ -1,5 +1,16 @@
-Hi, I’m Athos Turner 👋
+<img src ="https://github.com/lastresareales/Athos-Turner/blob/4c5087b2d8c723ba408fc9cb3f63f2a2d4810fc9/athos_turner_banner.png">
 
+<p align='center'>
+   <a href="https://portal.azure.com/#@communitycollegesofspokane.onmicrosoft.com/resource/subscriptions/6e3f442b-96ee-42fe-a94d-75cc351d2005/resourceGroups/AI_Project_RG/tags"><img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/Azure-Dark.svg">
+   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/Bash-Dark.svg">
+   <a href="https://www.debian.org/"><img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/Debian-Dark.svg">
+   <a href="https://www.github.com/lastresareales/"><img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/Github-Dark.svg">
+   <a href="https://en.wikipedia.org/wiki/Linux"><img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/Linux-Dark.svg">
+   <img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/Python-Dark.svg">
+   <img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/React-Dark.svg">
+   <img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/VSCode-Dark.svg">
+[
+]()   
 I’m a computer science student and emerging builder focused on AI/ML, cybersecurity, and community impact. My work sits at the intersection of technical problem‑solving and real‑world action — I like taking ideas out of my head and turning them into tools, systems, and projects that actually help people.
 
 Right now I’m studying at Spokane Falls Community College, building a strong foundation in computing while developing hands‑on projects in:
