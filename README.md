@@ -9,8 +9,11 @@
    <img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/Python-Dark.svg">
    <img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/React-Dark.svg">
    <img height="50" src="https://raw.githubusercontent.com/shox404/Stack-Icons/refs/heads/main/public/icons/VSCode-Dark.svg">
-[
-]()   
+   <a href="https://www.facebook.com/athos.turner.1"><img height="50" src="https://github.com/lastresareales/Athos-Turner/blob/main/images/icons8-facebook-50.gif">
+
+
+
+  
 I’m a computer science student and emerging builder focused on AI/ML, cybersecurity, and community impact. My work sits at the intersection of technical problem‑solving and real‑world action — I like taking ideas out of my head and turning them into tools, systems, and projects that actually help people.
 
 Right now I’m studying at Spokane Falls Community College, building a strong foundation in computing while developing hands‑on projects in:
